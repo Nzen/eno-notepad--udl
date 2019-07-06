@@ -1,0 +1,12 @@
+
+eno notepad++ udl
+
+Initiated by Nicholas Prado in 2019, released to the public domain, as described by unlicense v1.3. Those terms are reproduced in this repository as unlicense_v1.3.txt and are a reproduction from (contemporarily) https://unlicense.org/ .
+
+Notepad++ is copyright Don Ho, released under GPL v2 terms.
+
+Eno is copyright Simon Repp, released under MIT terms.
+
+Zenburn is copyright Jani Nurminen, released under GPL terms.
+
+Solarized is copyright Ethan Schoonover, released under MIT terms.

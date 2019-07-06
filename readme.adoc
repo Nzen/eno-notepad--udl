@@ -1,0 +1,24 @@
+
+= Eno notepad++ udl
+
+This repository contains two xml files that permit colorization of https://eno-lang.org/eno/guide/cheatsheet/[Eno documents] with Notepad++ .
+
+* `eno_zenburn.xml` utilizes the (dark) zenburn palatte.
+* `eno_solarized-light.xml` 
+
+== Usage
+
+Eno notepad++ udl is developed for Notepad++ v7.7 . It may work with others before and afterward.
+
+. launch your copy of notepad++
+. select the `language` menu
+. select the `Define your language ...` menu item
+. press the `Import` button
+. navigate and select either of the xml files of this project
+. acknowledge the success or failure dialog
+
+Files with the `eno` extension should thereafter highlight with the chosen color palatte.
+
+== License
+
+Nicholas Prado initiated Eno notepad++ udl and releases it to the public domain, under unlicense terms. Although it refers to various projects (notepad++, eno, zenburn, solarized) it has no affiliation with them.
